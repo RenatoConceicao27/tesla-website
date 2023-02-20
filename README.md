@@ -4,13 +4,14 @@ Technologies used:
 -HTML;
 -CSS;
 
-What I have achieved with this project:
+What I have achieved/learnt with this project:
 -Getting more comfortable working with CSS and HTML by replicating an existing website design;
 -Using "Google.fonts" to modify text so it has a desirable shape;
+-Add smooth scroll only by using ID's and CSS;
 
 What the project could have perhaps:
 -A JavaScript file so the Menu "button" would allow the user to interact with it;
--A second JavaScript file so the page would have smooth scroll implemmented. For example, once there was a click on the cars models, the page would take the user smoothly to the desired section;
+
 
 
 Stages of the project:
